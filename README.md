@@ -1,1 +1,1 @@
-# ball-game
+# ball-game using Tkinter
